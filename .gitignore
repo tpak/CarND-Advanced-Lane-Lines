@@ -1,0 +1,15 @@
+__MACOSX/
+*.zip
+.ipynb_checkpoints
+*.swp
+*.p
+lenet*
+notes.txt
+scratch*
+Scratch*
+checkpoint
+nohup.out
+camera_cal
+corners_found*
+test_images
+
