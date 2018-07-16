@@ -1,6 +1,6 @@
 __MACOSX/
 *.zip
-#.ipynb_checkpoints
+.ipynb_checkpoints*
 *.swp
 *.p
 lenet*
